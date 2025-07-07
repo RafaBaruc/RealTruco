@@ -42,6 +42,15 @@ Foi através dele que estudei tópicos como:
 
 Apesar das limitações desta versão, ela ainda representa uma etapa importante da minha jornada. Estou muito animado para continuar aprendendo mais sobre Game Dev e explorar novos projetos nessa área.
 
+## Imagens
+
+![Tela de jogar do jogo](assets/JogarRT.jpg)
+
+![Tela inicial do jogo](assets/MENURT.jpg)
+
+![Tela de gameplay do jogo](assets/GAMEPRINTRT.jpg)
+
+
 ---
 
 **Obrigado por visitar este repositório! Se quiser conversar mais sobre o projeto ou sobre Game Dev em geral, fico à disposição.**
