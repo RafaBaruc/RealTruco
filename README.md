@@ -44,9 +44,9 @@ Apesar das limitações desta versão, ela ainda representa uma etapa importante
 
 ## Imagens
 
-![Tela de jogar do jogo](assets/JogarRT.jpg)
-
 ![Tela inicial do jogo](assets/MENURT.jpg)
+
+![Tela de jogar do jogo](assets/JogarRT.jpg)
 
 ![Tela de gameplay do jogo](assets/GAMEPRINTRT.jpg)
 
